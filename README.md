@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with tips to develop new skills in game development
 - 💬 Ask me about game development and artificial intelligence
 - 📫 How to reach me: devlanforge90@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ele/Dele he/him
 - ⚡ Fun fact: My first project is also my biggest challenge so far
   
